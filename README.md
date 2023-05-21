@@ -11,15 +11,14 @@ second of all, i'm a masochist.
 ## installation
 
 1. clone this repo into your home directory:
-
-```bash
-git clone https://github.com/trvswgnr/vimrc.git ~/.vim
-```
+    ```bash
+    git clone https://github.com/trvswgnr/vimrc.git ~/.vim
+    ```
 
 2. start vim (it will install plugins automatically):
-```bash
-vim
-```
+    ```bash
+    vim
+    ```
 
 3. ???
 
