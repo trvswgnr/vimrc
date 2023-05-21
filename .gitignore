@@ -1,0 +1,13 @@
+autoload/
+colors/
+plugged/
+
+*.swp
+Session.vim
+.netrwhist
+tags
+*.un~
+undodir/
+.viminfo
+.DS_Store
+*.bk
